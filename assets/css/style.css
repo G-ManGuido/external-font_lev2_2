@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Fredoka+One&family=Pacifico&family=Press+Start+2P&family=Rock+Salt&display=swap');
+
+
+/*
+font-family: 'Chelsea Market', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Rock Salt', cursive;
+*/
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    background-color: greenyellow;
+    font-size: 4rem;
+    line-height: 200%;
+    text-align: center;
+
+}
+p{
+    font-family: 'Chelsea Market', cursive;
+    line-height: 1,5rem;
+    font-size: 2rem;
+    text-align: center;
+}
+
+em{
+    font-family: 'Fredoka One', cursive;
+    text-shadow: 2px -2px 0px red;
+}
+
+strong {
+    font-family: 'Pacifico', cursive;
+    font-size: 1rem;
+}
+a{
+    font-family: 'Rock Salt', cursive;
+    text-decoration: none;
+    text-align: left;
+    color: #000;
+}
+a:hover {
+    font-size: 1.5em;
+    color: #f0f;
+}
